@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h1><b>Hello Rails API | Ruby on Rails</b></h1>
+  <h1><b>Hello Rails Backend</b></h1>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -31,9 +31,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# Hello API <a name="about-project"></a>
+# Hello Rails Backend <a name="about-project"></a>
 
-**"Hello Rails"** This is a simple API for displaying a random greeting, made with Ruby on Rails.
+**"Hello Rails Backend"** is a simple API for displaying a random greeting, made with Ruby on Rails and Postgresql.
 
 ---
 
